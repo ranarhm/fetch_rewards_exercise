@@ -12,4 +12,6 @@ This repository contains my solutions for the **Fetch Rewards Analytics Engineer
 - `data_model/` - Contains the data model diagrams and explanation
 - `sql/` - Contains SQL queries answering business questions
 - `code/` - Contains the Python script for data quality analysis
+- `documentation/` - Contains the stakeholder communication
+
 
